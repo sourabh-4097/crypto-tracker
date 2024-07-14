@@ -2,7 +2,7 @@
 
 This is mini-website to collect and display real-time crypto currency data.
 
-The real time data for coin will be updated every 5 seconds
+The real time data for coin will be updated every 10 seconds
 
 **backend**
 
